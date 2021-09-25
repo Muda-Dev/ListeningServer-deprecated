@@ -201,7 +201,7 @@ async function SendSMS(phone,message){
 	console.log("sms sent")
 var options = {
   'method': 'POST',
-  'url': 'https://clic.world/fedapi/v2/sms.php',
+  'url': '',
   'headers': {
     'Content-Type': 'application/x-www-form-urlencoded'
   },
