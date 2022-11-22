@@ -17,6 +17,9 @@ async function init(){
   lastSeenBlock = await helper.GetLastBlock();
   console.log("payInAddress Address",payInAddress)
   console.log("Last Saved Block",lastSeenBlock)
+  console.log("Block Explorer",process.env.EXPLORER+process.env.CONTRACT_ADDRESS)
+
+
   setupProviderAndSubscriptions();
 }
 
