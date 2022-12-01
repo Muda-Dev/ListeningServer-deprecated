@@ -6,7 +6,7 @@ The Liquidity Rail Listening server is a web3 pooling service based on the [celo
 This service is supposed to be used by Banks, Telecom companies, utility service providers who wish to join the MUDA Liquidity rail community. The service provides a seem less integration between client wallets and service providers without the need for collaboration integration.
 
 ## Example Use case
-Imagine a client mobile app wallet x that supports CELO blockchain, and a utility service provider eg, Water bill payment y. Now wallet x can seamlessly allow all their clients to pay for utilities through company y without the need for these companies to collaborate or know each other. How cool is that?! With MUDA Liquidity rail, both client wallet and service providers can communicate to each other using blockchain based transactions where the token transfer is a proof os settlement and the service provider MUST guarantee payment/provision of service once tokens have been sent to them and confirmed on the blockchain.
+Imagine a client mobile app wallet x that supports CELO blockchain, and a utility service provider eg, Water bill payment Y. Now wallet X can seamlessly allow all their clients to pay for utilities through company y without the need for these companies to collaborate or know each other. How cool is that?! With MUDA Liquidity rail, both client wallet and service providers can communicate to each other using blockchain based transactions where the token transfer is a proof os settlement and the service provider MUST guarantee payment/provision of service once tokens have been sent to them and confirmed on the blockchain.
 
 
 ## Installation
