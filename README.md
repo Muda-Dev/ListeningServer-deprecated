@@ -1,4 +1,5 @@
 # Listening server
+# This service has been depricated and now is part of the python liquidity package [here](https://github.com/Muda-Dev/bridgeServer) 
 
 The Liquidity Rail Listening server is a web3 pooling service based on the [celo blockchain](https://celo.org/) , that listens for payment events on the MUDA cUGX contract and passes the event information to the service provider to provide the service to their clients.
 ## High Level Description
